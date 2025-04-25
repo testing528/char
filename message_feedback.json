@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0f2a75e5-c03c-49d5-a5a4-1d4c55e70afd",
+    "conversation_id": "4b874ce7-dea7-4506-8ece-0daa749ee505",
+    "user_id": "user-mhvvseGFyBQeiTa8Eje3P2CH",
+    "rating": "thumbs_up",
+    "create_time": "2023-05-07T19:37:54.041257Z",
+    "workspace_id": null,
+    "content": "{}",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "update_time": "2024-12-04T03:21:14.945604Z"
+  },
+  {
+    "id": "ffe8f6fb-1c89-40a5-a059-bd47ff355df5",
+    "conversation_id": "e0b0712d-387a-4d62-a779-112f07833d0e",
+    "user_id": "user-mhvvseGFyBQeiTa8Eje3P2CH",
+    "rating": "thumbs_down",
+    "create_time": "2023-06-28T16:45:31.138116Z",
+    "workspace_id": null,
+    "content": "{\"tags\": [\"not-helpful\"]}",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "update_time": "2024-12-04T03:21:41.424600Z"
+  },
+  {
+    "id": "a0c7c797-a4a8-445c-9b6d-768b07b7f22d",
+    "conversation_id": "5a336add-91d8-443d-aae3-ca4aeb224c98",
+    "user_id": "user-mhvvseGFyBQeiTa8Eje3P2CH",
+    "rating": "thumbs_up",
+    "create_time": "2023-07-04T21:50:43.663820Z",
+    "workspace_id": null,
+    "content": "{\"text\": \"mind blowing\"}",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "update_time": "2024-12-04T03:21:44.310542Z"
+  },
+  {
+    "id": "752c5ad5-d2ee-4c0e-9f35-16e9d406a974",
+    "conversation_id": "5a336add-91d8-443d-aae3-ca4aeb224c98",
+    "user_id": "user-mhvvseGFyBQeiTa8Eje3P2CH",
+    "rating": "thumbs_up",
+    "create_time": "2023-07-04T21:55:29.820649Z",
+    "workspace_id": null,
+    "content": "{}",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "update_time": "2024-12-04T03:21:44.312070Z"
+  },
+  {
+    "id": "38a48492-69d3-4066-9cc1-39c18bf68b24",
+    "conversation_id": "fe45c83e-f6b5-4f42-b979-068aed7b899e",
+    "user_id": "user-mhvvseGFyBQeiTa8Eje3P2CH",
+    "rating": "thumbs_down",
+    "create_time": "2024-04-24T11:56:36.089396Z",
+    "workspace_id": null,
+    "content": "{\"tags\": [\"This didn't violate the policy\"], \"tag_choices\": [\"I disagree with the policy\", \"This didn't violate the policy\", \"I don't understand the policy\", \"This didn't take the full context\"]}",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "update_time": "2024-12-04T03:16:06.277588Z"
+  },
+  {
+    "id": "7a4e5234-9994-4d54-9f12-ad11ddc30b33",
+    "conversation_id": "680850e4-2fd4-8012-a4a3-bc95769a64aa",
+    "user_id": "user-mhvvseGFyBQeiTa8Eje3P2CH",
+    "rating": "thumbs_up",
+    "create_time": "2025-04-23T05:10:11.036440Z",
+    "workspace_id": null,
+    "content": "{}",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "update_time": "2025-04-23T05:10:11.110765Z"
+  },
+  {
+    "id": "844471d0-f459-49d9-89c6-835e5d86dc59",
+    "conversation_id": "680850e4-2fd4-8012-a4a3-bc95769a64aa",
+    "user_id": "user-mhvvseGFyBQeiTa8Eje3P2CH",
+    "rating": "thumbs_up",
+    "create_time": "2025-04-23T05:18:58.265101Z",
+    "workspace_id": null,
+    "content": "{}",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "update_time": "2025-04-23T05:18:58.339718Z"
+  }
+]
